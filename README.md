@@ -29,10 +29,10 @@ Los beneficios que aporta MentConnect son:
 ## Diagrama de flujo de la aplicacción
 
 ## Web
-<p align="center"><img src=""/></p> 
+<p align="center"><img src="diagrama-web.PNG"/></p> 
 
 ## Móvil
-<p align="center"><img src=""/></p> 
+<p align="center"><img src="diagrama-movil.PNG"/></p> 
 
 ## Instalación
 
