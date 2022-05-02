@@ -65,6 +65,6 @@ Este proyecto está bajo la Licencia Creative Commons 4.0
 <p align="center"><img src="https://conogasi.org/wp-content/uploads/2017/05/CC-BY-NC-SA-4.0.jpg"/></p> 
 
 ## Autores
-* **Andrea Candela Villagrasa** - *Documentación y desarrollo* -
-* **Capgemini España SL** - *Implementación del software* - [fulanitodetal](https://www.capgemini.com/es-es/)
+* **Andrea Candela Villagrasa** - *Documentación y desarrollo*
+* **Capgemini España SL** - *Implementación del software* - [capgemini](https://www.capgemini.com/es-es/)
 * **Universidad de Valencia** - Trabajo final de grado - [fulanitodetal](https://www.uv.es/)
