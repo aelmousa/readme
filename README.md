@@ -66,5 +66,5 @@ Este proyecto está bajo la Licencia Creative Commons 4.0
 
 ## Autores
 * **Andrea Candela Villagrasa** - *Documentación y desarrollo*
-* **Capgemini España SL** - *Implementación del software* - [Capgemini España SL](https://www.capgemini.com/es-es/)
-* **Universidad de Valencia** - Trabajo final de grado - [Universidad de Valencia](https://www.uv.es/)
+* **[Capgemini España SL](https://www.capgemini.com/es-es/)** - *Implementación del software*
+* **[Universidad de Valencia](https://www.uv.es/)** - *Trabajo final de grado*
