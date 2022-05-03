@@ -28,11 +28,31 @@ Los beneficios que aporta MentConnect son:
 
 ## Diagrama de flujo de la aplicacción
 
-## Web
+### Web
+Dirigida para los profesionales sanitarios.
 <p align="center"><img src="diagrama-web.PNG"/></p> 
 
-## Móvil
+### Móvil
+Dirigida para los pacientes.
 <p align="center"><img src="diagrama-movil.PNG"/></p> 
+ 
+## Ejemplo de uso
+
+### Listado de cuestiones
+<p align="center"><img src="listado-preguntas.PNG"/></p>
+
+### Formulario de respuesta
+#### Respuesta numérica
+<p align="center"><img src="respuesta-numerica.PNG"/></p>
+
+#### Respuesta dicotómica
+<p align="center"><img src="respuesta-dicotomica.PNG"/></p>
+
+#### Respuesta cualitativa politómica
+<p align="center"><img src="respuesta-cualitativa.PNG"/></p>
+
+#### Respuesta cuantitativa politómica
+<p align="center"><img src="respuesta-cuantitativa.PNG"/></p>
 
 ## Instalación
 
@@ -44,7 +64,7 @@ $ mvn clean install
 ```  
 
 ### Dependencias
-El módulo requiere la presencia de un JDK ¿? y de una base de datos ¿?
+El módulo requiere la presencia de un JDK 11
 
 ### Ejecución
 
@@ -54,11 +74,31 @@ Para arrancar la aplicación navegar hasta la calase anotada como @SpringBootApp
     * Run as >
         * Java application
 
+
+
 ## Construido con
 * [Spring Boot](https://spring.io/projects/spring-boot)
 * [Hibernate](https://hibernate.org/)
 * [Maven](https://maven.apache.org/)
 
+
+## Seguridad
+
+La seguridad esta basada el Token JWT, para generar un token valido se debe realizar una llamada POST donde
+la contraseña debe estar encriptada con MD5.
+
+* URL: ¿?
+
+Como Body se adjunta las credenciales:
+
+```json
+{
+    "username":"XXX",
+    "password":"***"
+}
+```  
+
+La respuesta provee del token necesario para realizar las llamadas pertinentes a los endpoint publicados.
 
 ## Licencia
 Este proyecto está bajo la Licencia Creative Commons 4.0
