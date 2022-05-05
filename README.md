@@ -37,16 +37,16 @@ Dirigida para los pacientes.
 
 ### Formulario de respuesta
 #### Respuesta numérica
-<p align="center"><img src="respuesta-numerica.PNG" width = "100"/></p>
+<p align="center"><img src="respuesta-numerica.PNG" width = "150"/></p>
 
 #### Respuesta dicotómica
-<p align="center"><img src="respuesta-dicotomica.PNG" width = "100"/></p>
+<p align="center"><img src="respuesta-dicotomica.PNG" width = "150"/></p>
 
 #### Respuesta cualitativa politómica
-<p align="center"><img src="respuesta-cualitativa.PNG" width = "100"/></p>
+<p align="center"><img src="respuesta-cualitativa.PNG" width = "150"/></p>
 
 #### Respuesta cuantitativa politómica
-<p align="center"><img src="respuesta-cuantitativa.PNG" width = "100"/></p>
+<p align="center"><img src="respuesta-cuantitativa.PNG" width = "150"/></p>
 
 ## Instalación
 
