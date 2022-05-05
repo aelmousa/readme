@@ -33,7 +33,7 @@ Dirigida para los pacientes.
 ## Ejemplo de uso
 
 ### Creación de cuestionarios
-<p align="center"><img src="creacion-cuestionario.PNG" width = "350"/></p>
+<p align="center"><img src="creacion-cuestionario.PNG" width = "550"/></p>
 
 ### Listado de cuestiones
 <p align="center"><img src="listado-preguntas.PNG" width = "250"/></p>
