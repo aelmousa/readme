@@ -32,21 +32,24 @@ Dirigida para los pacientes.
  
 ## Ejemplo de uso
 
+### Creación de cuestionarios
+<p align="center"><img src="creacion-cuestionario.PNG" width = "250"/></p>
+
 ### Listado de cuestiones
-<p align="center"><img src="listado-preguntas.PNG" widht = "100px"/></p>
+<p align="center"><img src="listado-preguntas.PNG" width = "250"/></p>
 
 ### Formulario de respuesta
 #### Respuesta numérica
-<p align="center"><img src="respuesta-numerica.PNG" widht = "100px"/></p>
+<p align="center"><img src="respuesta-numerica.PNG" width = "250"/></p>
 
 #### Respuesta dicotómica
-<p align="center"><img src="respuesta-dicotomica.PNG" widht = "100px"/></p>
+<p align="center"><img src="respuesta-dicotomica.PNG" width = "250"/></p>
 
 #### Respuesta cualitativa politómica
-<p align="center"><img src="respuesta-cualitativa.PNG" widht = "100px"/></p>
+<p align="center"><img src="respuesta-cualitativa.PNG" width = "250"/></p>
 
 #### Respuesta cuantitativa politómica
-<p align="center"><img src="respuesta-cuantitativa.PNG" widht = "100px"/></p>
+<p align="center"><img src="respuesta-cuantitativa.PNG" width = "250"/></p>
 
 ## Instalación
 
@@ -96,5 +99,4 @@ Este proyecto está bajo la Licencia Creative Commons 4.0
 
 ## Autores
 * **Andrea Candela Villagrasa** - *Documentación y desarrollo*
-* **[Capgemini España SL](https://www.capgemini.com/es-es/)** - *Implementación del software*
 * **[Universidad de Valencia](https://www.uv.es/)** - *Trabajo final de grado*
