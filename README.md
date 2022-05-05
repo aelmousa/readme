@@ -33,20 +33,20 @@ Dirigida para los pacientes.
 ## Ejemplo de uso
 
 ### Listado de cuestiones
-<p align="center"><img src="listado-preguntas.PNG" width = "200"/></p>
+<p align="center"><img src="listado-preguntas.PNG" width = "230"/></p>
 
 ### Formulario de respuesta
 #### Respuesta numérica
-<p align="center"><img src="respuesta-numerica.PNG" width = "200"/></p>
+<p align="center"><img src="respuesta-numerica.PNG" width = "230"/></p>
 
 #### Respuesta dicotómica
-<p align="center"><img src="respuesta-dicotomica.PNG" width = "200"/></p>
+<p align="center"><img src="respuesta-dicotomica.PNG" width = "230"/></p>
 
 #### Respuesta cualitativa politómica
-<p align="center"><img src="respuesta-cualitativa.PNG" width = "200"/></p>
+<p align="center"><img src="respuesta-cualitativa.PNG" width = "230"/></p>
 
 #### Respuesta cuantitativa politómica
-<p align="center"><img src="respuesta-cuantitativa.PNG" width = "200"/></p>
+<p align="center"><img src="respuesta-cuantitativa.PNG" width = "230"/></p>
 
 ## Instalación
 
