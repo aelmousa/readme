@@ -1,16 +1,10 @@
 # MentConnect
-Una aplicación con el fin de mejorar el tratamiento de las personas con TMG (Transtorno Mental Grave).
+Una aplicación que permite mejorar el seguimiento de pacientes con trastorno mental grave -TMG-
 
 ## Descripción
-MentConnect es un aplciativo móvil y web que aporta novedades y una gran mejora con respecto a las actuales aplicaciones 
-relacionadas con la salud, puesto que permite un seguimiento continuo del/la paciente por parte de los/las 
-profesionales sanitarios/as. Es complementario a la atención y seguimiento presencial y genera una estrecha 
-alianzaterapéutica. 
+MentConnect es un aplicativo móvil y web que aporta novedades y una gran mejora con respecto a las actuales aplicaciones relacionadas con la salud, puesto que permite un seguimiento continuo del/la paciente por parte de los/as profesionales sanitarios proporcionando al usuario/a una atención holística y generando una estrecha alianza terapéutica.
 
-Esta aplicacción demuestra la viabilidad de llevar a cabo un siguiemiento continuo de los/las 
-pacientes través de la potenciación de su autonomía y el empoderamiento. Este puede llevarse 
-a cabo de manera deslocalizada sin ser imprescindible una asistencia presencial y garantizando 
-su seguridad y usabilidad.
+Esta aplicación demuestra la viabilidad de llevar a cabo un seguimiento continuo de los/las pacientes a través de la potenciación de su autonomía y el empoderamiento. Este puede llevarse a cabo de manera deslocalizada sin ser imprescindible una asistencia presencial y garantizando su seguridad y usabilidad.
 
 ## Beneficios
 Los beneficios que aporta MentConnect son:
@@ -39,20 +33,20 @@ Dirigida para los pacientes.
 ## Ejemplo de uso
 
 ### Listado de cuestiones
-<p align="center"><img src="listado-preguntas.PNG"/></p>
+<p align="center"><img src="listado-preguntas.PNG" widht = "100px"/></p>
 
 ### Formulario de respuesta
 #### Respuesta numérica
-<p align="center"><img src="respuesta-numerica.PNG"/></p>
+<p align="center"><img src="respuesta-numerica.PNG" widht = "100px"/></p>
 
 #### Respuesta dicotómica
-<p align="center"><img src="respuesta-dicotomica.PNG"/></p>
+<p align="center"><img src="respuesta-dicotomica.PNG" widht = "100px"/></p>
 
 #### Respuesta cualitativa politómica
-<p align="center"><img src="respuesta-cualitativa.PNG"/></p>
+<p align="center"><img src="respuesta-cualitativa.PNG" widht = "100px"/></p>
 
 #### Respuesta cuantitativa politómica
-<p align="center"><img src="respuesta-cuantitativa.PNG"/></p>
+<p align="center"><img src="respuesta-cuantitativa.PNG" widht = "100px"/></p>
 
 ## Instalación
 
@@ -67,14 +61,11 @@ $ mvn clean install
 El módulo requiere la presencia de un JDK 11
 
 ### Ejecución
-
 Para arrancar la aplicación navegar hasta la calase anotada como @SpringBootApplication
 
 * Hacer click con el botón derecho sobre la clase:
     * Run as >
         * Java application
-
-
 
 ## Construido con
 * [Spring Boot](https://spring.io/projects/spring-boot)
@@ -83,7 +74,6 @@ Para arrancar la aplicación navegar hasta la calase anotada como @SpringBootApp
 
 
 ## Seguridad
-
 La seguridad esta basada el Token JWT, para generar un token valido se debe realizar una llamada POST donde
 la contraseña debe estar encriptada con MD5.
 
