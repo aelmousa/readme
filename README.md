@@ -33,7 +33,7 @@ Dirigida para los pacientes.
 ## Ejemplo de uso
 
 ### Creación de cuestionarios
-<p align="center"><img src="creacion-cuestionario.PNG" width = "550"/></p>
+<p align="center"><img src="creacion-cuestionario.PNG" width = "750"/></p>
 
 ### Listado de cuestiones
 <p align="center"><img src="listado-preguntas.PNG" width = "250"/></p>
@@ -80,7 +80,7 @@ Para arrancar la aplicación navegar hasta la calase anotada como @SpringBootApp
 La seguridad esta basada el Token JWT, para generar un token valido se debe realizar una llamada POST donde
 la contraseña debe estar encriptada con MD5.
 
-* URL: ¿?
+* URL: http://localhost:8080/security/login
 
 Como Body se adjunta las credenciales:
 
